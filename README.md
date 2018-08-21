@@ -14,7 +14,7 @@ I feel there hasn't been a comprehensive study on the topic of events and messag
 
 TODO
 
-## Cookbook
+## Design Patterns
 
 TODO, ideal would be in the wiki with recipes for "I am trying to to x; which event pattern and implementation would make sense?"
 
