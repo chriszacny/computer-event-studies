@@ -1,4 +1,4 @@
-# computing-event-studies
+# computing-event-studies-and-patterns
 
 ## What
 
