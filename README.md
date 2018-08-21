@@ -1,4 +1,4 @@
-# computer-event-studies
+# computing-event-studies
 
 ## What
 
