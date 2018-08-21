@@ -14,6 +14,10 @@ I feel there hasn't been a comprehensive study on the topic of events and messag
 
 TODO
 
+## Cookbook
+
+TODO, ideal would be in the wiki with recipes for "I am trying to to x; which event pattern and implementation would make sense?"
+
 ## Links to Study
 
 * https://en.wikipedia.org/wiki/Event_(computing)
